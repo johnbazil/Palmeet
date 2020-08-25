@@ -1,0 +1,924 @@
+TypeError: conn.openUri(...).then is not a function
+    at Mongoose.connect (C:\Users\User\Desktop\Palmeet\backend\node_modules\mongoose\lib\index.js:339:47)
+    at Object.collection.getUserCollection (C:\Users\User\Desktop\Palmeet\backend\utilities\connection.js:17:21)
+    at Object.userModel.getPassword (C:\Users\User\Desktop\Palmeet\backend\model\userModel.js:37:23)
+    at C:\Users\User\Desktop\Palmeet\backend\service\userService.js:30:34
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: conn.openUri(...).then is not a function
+    at Mongoose.connect (C:\Users\User\Desktop\Palmeet\backend\node_modules\mongoose\lib\index.js:339:47)
+    at Object.collection.getUserCollection (C:\Users\User\Desktop\Palmeet\backend\utilities\connection.js:17:21)
+    at Object.userModel.getPassword (C:\Users\User\Desktop\Palmeet\backend\model\userModel.js:37:23)
+    at C:\Users\User\Desktop\Palmeet\backend\service\userService.js:30:34
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: conn.openUri(...).then is not a function
+    at Mongoose.connect (C:\Users\User\Desktop\Palmeet\backend\node_modules\mongoose\lib\index.js:339:47)
+    at Object.collection.getUserCollection (C:\Users\User\Desktop\Palmeet\backend\utilities\connection.js:17:21)
+    at Object.userModel.getPassword (C:\Users\User\Desktop\Palmeet\backend\model\userModel.js:37:23)
+    at C:\Users\User\Desktop\Palmeet\backend\service\userService.js:30:34
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: conn.openUri(...).then is not a function
+    at Mongoose.connect (C:\Users\User\Desktop\Palmeet\backend\node_modules\mongoose\lib\index.js:339:47)
+    at Object.collection.getUserCollection (C:\Users\User\Desktop\Palmeet\backend\utilities\connection.js:17:21)
+    at Object.userModel.getPassword (C:\Users\User\Desktop\Palmeet\backend\model\userModel.js:37:23)
+    at C:\Users\User\Desktop\Palmeet\backend\service\userService.js:30:34
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: conn.openUri(...).then is not a function
+    at Mongoose.connect (C:\Users\User\Desktop\Palmeet\backend\node_modules\mongoose\lib\index.js:339:47)
+    at Object.collection.getUserCollection (C:\Users\User\Desktop\Palmeet\backend\utilities\connection.js:17:21)
+    at Object.userModel.getPassword (C:\Users\User\Desktop\Palmeet\backend\model\userModel.js:37:23)
+    at C:\Users\User\Desktop\Palmeet\backend\service\userService.js:30:34
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: conn.openUri(...).then is not a function
+    at Mongoose.connect (C:\Users\User\Desktop\Palmeet\backend\node_modules\mongoose\lib\index.js:339:47)
+    at Object.collection.getUserCollection (C:\Users\User\Desktop\Palmeet\backend\utilities\connection.js:17:21)
+    at Object.userModel.login (C:\Users\User\Desktop\Palmeet\backend\model\userModel.js:22:23)
+    at Object.userService.login (C:\Users\User\Desktop\Palmeet\backend\service\userService.js:22:22)
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:19:17
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+TypeError: conn.openUri(...).then is not a function
+    at Mongoose.connect (C:\Users\User\Desktop\Palmeet\backend\node_modules\mongoose\lib\index.js:339:47)
+    at Object.collection.getUserCollection (C:\Users\User\Desktop\Palmeet\backend\utilities\connection.js:17:21)
+    at Object.userModel.getPassword (C:\Users\User\Desktop\Palmeet\backend\model\userModel.js:38:23)
+    at C:\Users\User\Desktop\Palmeet\backend\service\userService.js:30:34
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: conn.openUri(...).then is not a function
+    at Mongoose.connect (C:\Users\User\Desktop\Palmeet\backend\node_modules\mongoose\lib\index.js:339:47)
+    at Object.collection.getUserCollection (C:\Users\User\Desktop\Palmeet\backend\utilities\connection.js:17:21)
+    at Object.userModel.login (C:\Users\User\Desktop\Palmeet\backend\model\userModel.js:22:23)
+    at Object.userService.login (C:\Users\User\Desktop\Palmeet\backend\service\userService.js:22:22)
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:18:17
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+TypeError: conn.openUri(...).then is not a function
+    at Mongoose.connect (C:\Users\User\Desktop\Palmeet\backend\node_modules\mongoose\lib\index.js:339:47)
+    at Object.collection.getUserCollection (C:\Users\User\Desktop\Palmeet\backend\utilities\connection.js:17:21)
+    at Object.userModel.getPassword (C:\Users\User\Desktop\Palmeet\backend\model\userModel.js:38:23)
+    at C:\Users\User\Desktop\Palmeet\backend\service\userService.js:30:34
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: conn.openUri(...).then is not a function
+    at Mongoose.connect (C:\Users\User\Desktop\Palmeet\backend\node_modules\mongoose\lib\index.js:339:47)
+    at Object.collection.getUserCollection (C:\Users\User\Desktop\Palmeet\backend\utilities\connection.js:17:21)
+    at Object.userModel.login (C:\Users\User\Desktop\Palmeet\backend\model\userModel.js:22:23)
+    at Object.userService.login (C:\Users\User\Desktop\Palmeet\backend\service\userService.js:22:22)
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:18:17
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+TypeError: conn.openUri(...).then is not a function
+    at Mongoose.connect (C:\Users\User\Desktop\Palmeet\backend\node_modules\mongoose\lib\index.js:339:47)
+    at Object.collection.getUserCollection (C:\Users\User\Desktop\Palmeet\backend\utilities\connection.js:17:21)
+    at Object.userModel.login (C:\Users\User\Desktop\Palmeet\backend\model\userModel.js:22:23)
+    at Object.userService.login (C:\Users\User\Desktop\Palmeet\backend\service\userService.js:22:22)
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:18:17
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+TypeError: conn.openUri(...).then is not a function
+    at Mongoose.connect (C:\Users\User\Desktop\Palmeet\backend\node_modules\mongoose\lib\index.js:339:47)
+    at Object.collection.getUserCollection (C:\Users\User\Desktop\Palmeet\backend\utilities\connection.js:17:21)
+    at Object.userModel.login (C:\Users\User\Desktop\Palmeet\backend\model\userModel.js:22:23)
+    at Object.userService.login (C:\Users\User\Desktop\Palmeet\backend\service\userService.js:22:22)
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:18:17
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+Error: Incorrect password !
+    at C:\Users\User\Desktop\Palmeet\backend\service\userService.js:34:39
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password !
+    at C:\Users\User\Desktop\Palmeet\backend\service\userService.js:34:39
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password !
+    at C:\Users\User\Desktop\Palmeet\backend\service\userService.js:34:39
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password !
+    at C:\Users\User\Desktop\Palmeet\backend\service\userService.js:34:39
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:518:11)
+    at ServerResponse.header (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\response.js:771:10)
+    at ServerResponse.contentType (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\response.js:599:15)
+    at ServerResponse.send (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\response.js:145:14)
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:9:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:518:11)
+    at ServerResponse.header (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\response.js:771:10)
+    at ServerResponse.contentType (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\response.js:599:15)
+    at ServerResponse.send (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\response.js:145:14)
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:9:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:518:11)
+    at ServerResponse.header (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\response.js:771:10)
+    at ServerResponse.contentType (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\response.js:599:15)
+    at ServerResponse.send (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\response.js:145:14)
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:9:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password !
+    at C:\Users\User\Desktop\Palmeet\backend\service\userService.js:34:39
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password !
+    at C:\Users\User\Desktop\Palmeet\backend\service\userService.js:34:39
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:518:11)
+    at ServerResponse.header (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\response.js:771:10)
+    at ServerResponse.contentType (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\response.js:599:15)
+    at ServerResponse.send (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\response.js:145:14)
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:9:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: userModel.forgotPassword(...).then is not a function
+    at Object.userService.forgotPassword (C:\Users\User\Desktop\Palmeet\backend\service\userService.js:70:39)
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:31:18
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+TypeError: userModel.forgotPassword(...).then is not a function
+    at Object.userService.forgotPassword (C:\Users\User\Desktop\Palmeet\backend\service\userService.js:71:39)
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:31:18
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+TypeError: userService.forgotPassword(...).then is not a function
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:31:35
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+TypeError: userService.forgotPassword(...).then is not a function
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:31:35
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+TypeError: userService.forgotPassword(...).then is not a function
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:31:35
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+TypeError: userService.forgotPassword(...).then is not a function
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:31:35
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+TypeError: userService.forgotPassword(...).then is not a function
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:31:35
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+TypeError: userService.forgotPassword(...).then is not a function
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:31:35
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+TypeError: userService.forgotPassword(...).then is not a function
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:31:35
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+TypeError: userService.forgotPassword(...).then is not a function
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:31:35
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+Error: Cannot change password !
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:37:23
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+Error: Cannot change password !
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:37:23
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+Error: Cannot change password !
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:37:23
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+Error: Cannot change password !
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:37:23
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+Error: Cannot change password !
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:38:23
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+TypeError: Cannot read property 'email' of undefined
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:32:26
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+TypeError: Cannot read property 'email' of undefined
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:32:26
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+TypeError: Cannot read property 'email' of undefined
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:32:26
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+TypeError: Cannot read property 'email' of undefined
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:32:26
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+Error: Cannot change password !
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:38:23
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+TypeError: Cannot read property 'email' of undefined
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:32:26
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+ReferenceError: params is not defined
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:32:17
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+ReferenceError: params is not defined
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:32:17
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+ReferenceError: params is not defined
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:32:17
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+ReferenceError: params is not defined
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:32:17
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+ReferenceError: params is not defined
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:32:17
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+ReferenceError: params is not defined
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:32:17
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+Error: Cannot change password !
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:38:23
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+Error: Cannot change password !
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:37:23
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+Error: Cannot change password !
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:37:23
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+Error: Cannot change password !
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:37:23
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+Error: Cannot change password !
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:37:23
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+Error: Cannot change password !
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:37:23
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+TypeError: Cannot read property 'then' of undefined
+    at Object.userService.forgotPassword (C:\Users\User\Desktop\Palmeet\backend\service\userService.js:70:43)
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:33:25
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+TypeError: Cannot read property 'email' of undefined
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:31:26
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+TypeError: Cannot read property 'email' of undefined
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:31:26
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+TypeError: Cannot read property 'fromData' of undefined
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:23:29
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+TypeError: Cannot read property 'fromData' of undefined
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:23:29
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+TypeError: Cannot read property 'fromData' of undefined
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:23:29
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+TypeError: Cannot read property 'fromData' of undefined
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:23:29
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+TypeError: Cannot read property 'fromData' of undefined
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:23:29
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+TypeError: Cannot read property 'fromData' of undefined
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:23:29
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+TypeError: Cannot read property 'fromData' of undefined
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:24:29
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\Palmeet\backend\utilities\RequestLogger.js:8:5)
+TypeError: Cannot read property 'email' of undefined
+    at Object.userService.register (C:\Users\User\Desktop\Palmeet\backend\service\userService.js:48:37)
+    at C:\Users\User\Desktop\Palmeet\backend\routes\userRouter.js:25:17
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Palmeet\backend\node_modules\express\lib\router\index.js:275:10)
+Error: The email address has already been registered !
+    at C:\Users\User\Desktop\Palmeet\backend\service\userService.js:51:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
